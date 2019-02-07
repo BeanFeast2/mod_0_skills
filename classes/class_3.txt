@@ -1,0 +1,15 @@
+Class: Table
+
+Attributes:
+location(integer)
+is_vacant(boolean)
+order_received(boolean)
+money_made(integer)
+server_assigned(float)
+
+Methods:
+receive_customers
+receive_order
+remove_customers
+assign_server
+add_money_made
