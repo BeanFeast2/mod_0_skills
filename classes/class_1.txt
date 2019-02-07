@@ -1,0 +1,15 @@
+Class: Food
+
+Attributes:
+name(string)
+date_of_exp(integer)
+on_special(boolean)
+qty(integer)
+is_ordered(boolean)
+
+Methods:
+add_food
+add_qty
+order
+waste
+donate
