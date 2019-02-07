@@ -1,0 +1,12 @@
+Class: Employee
+
+Attributes:
+name(string)
+employeeID(Float)
+start_date(string)
+clocked_in(boolean)
+
+Methods:
+add_employee
+clock_in
+terminate
